@@ -1,0 +1,100 @@
+[2025-05-17 14:18:44] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-17 14:18:48] [::1] [Gizem Merve Demir] MATCH DUPLICATE: User #2 tried to request again for item #1
+[2025-05-17 14:25:46] [::1] [Admin] LOGIN SUCCESS: admin@test.com
+[2025-05-17 14:28:35] [::1] [Admin] ADMIN DELETE ITEM: Item #1 deleted
+[2025-05-17 14:28:38] [::1] [Admin] ADMIN DELETE ITEM: Item #2 deleted
+[2025-05-17 16:37:43] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-17 16:39:24] [::1] [Gizem Merve Demir] MATCH REQUEST: User #2 sent match request for item #3
+[2025-05-17 16:39:50] [::1] [Admin] LOGIN SUCCESS: admin@test.com
+[2025-05-17 16:40:03] [::1] [Admin] ADMIN approved MATCH: Match #4
+[2025-05-17 16:40:15] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-25 14:28:10] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-25 14:45:44] [::1] [Gizem Merve Demir] UNAUTHORIZED DELETE ATTEMPT: User #2 tried to delete item #3
+[2025-05-25 14:45:48] [::1] [Gizem Merve Demir] UNAUTHORIZED DELETE ATTEMPT: User #2 tried to delete item #3
+[2025-05-25 14:46:15] [::1] [Admin] LOGIN SUCCESS: admin@test.com
+[2025-05-25 14:46:22] [::1] [Admin] ADMIN DELETE ITEM: Item #3 deleted
+[2025-05-25 14:50:22] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-25 14:50:41] [::1] [Gizem Merve Demir] USER DELETE ITEM: User #2 deleted item #4
+[2025-05-25 17:24:43] [::1] [Admin] LOGIN SUCCESS: admin@test.com
+[2025-05-26 18:05:58] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-26 18:26:04] [::1] [Admin] LOGIN SUCCESS: admin@test.com
+[2025-05-26 18:26:33] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-26 18:26:35] [::1] [Gizem Merve Demir] MATCH REQUEST: User #2 requested match for item #5
+[2025-05-26 18:26:38] [::1] [Admin] LOGIN SUCCESS: admin@test.com
+[2025-05-26 18:26:42] [::1] [Admin] ADMIN DELETE ITEM: Item #5 deleted
+[2025-05-26 18:26:50] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-26 18:40:16] [::1] [Yunus Emre Açıkoğlu] LOGIN SUCCESS: yunusemre.acikoglu@std.yeditepe.edu.tr
+[2025-05-26 18:47:56] [::1] [Hatice Sena Ses] LOGIN SUCCESS: haticesena.ses@std.yeditepe.edu.tr
+[2025-05-26 18:51:11] [::1] [Aysun Ay] LOGIN SUCCESS: aysun.ay@std.yeditepe.edu.tr
+[2025-05-26 18:55:48] [::1] [Eylül Akboğa] LOGIN SUCCESS: eylul.akboga@std.yeditepe.edu.tr
+[2025-05-26 18:59:00] [::1] [Eylül Akboğa] MATCH REQUEST: User #12 requested match for item #6
+[2025-05-26 18:59:09] [::1] [Eylül Akboğa] MATCH DUPLICATE: User #12 tried to re-request item #6
+[2025-05-26 18:59:19] [::1] [Eylül Akboğa] MATCH DUPLICATE: User #12 tried to re-request item #6
+[2025-05-26 18:59:58] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-26 19:00:49] [::1] [Admin] LOGIN SUCCESS: admin@test.com
+[2025-05-26 19:01:12] [::1] [Admin] ADMIN approved MATCH: Match #6
+[2025-05-26 19:01:39] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-26 19:06:08] [::1] [Admin] LOGIN SUCCESS: admin@test.com
+[2025-05-26 19:26:02] [::1] [Admin] ADMIN DELETE ITEM: Item #6 deleted
+[2025-05-26 19:26:07] [::1] [Admin] MATCH REQUEST: User #8 requested match for item #9
+[2025-05-26 19:26:08] [::1] [Admin] MATCH REQUEST: User #8 requested match for item #7
+[2025-05-26 19:26:10] [::1] [Admin] MATCH REQUEST: User #8 requested match for item #8
+[2025-05-26 19:26:10] [::1] [Admin] MATCH REQUEST: User #8 requested match for item #11
+[2025-05-26 19:26:11] [::1] [Admin] MATCH REQUEST: User #8 requested match for item #10
+[2025-05-26 19:26:17] [::1] [Admin] ADMIN DELETE ITEM: Item #10 deleted
+[2025-05-26 19:26:20] [::1] [Admin] ADMIN DELETE ITEM: Item #8 deleted
+[2025-05-26 19:26:23] [::1] [Admin] ADMIN DELETE ITEM: Item #11 deleted
+[2025-05-26 19:26:25] [::1] [Admin] ADMIN DELETE ITEM: Item #7 deleted
+[2025-05-26 19:26:27] [::1] [Admin] ADMIN DELETE ITEM: Item #9 deleted
+[2025-05-26 20:10:30] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-26 20:39:23] [::1] [GUEST] NEW USER REGISTERED: eyupberkozer@gmail.com
+[2025-05-26 20:39:33] [::1] [Eyüp Berk Özer] LOGIN SUCCESS: eyupberkozer@gmail.com
+[2025-05-26 20:39:56] [::1] [Admin] LOGIN SUCCESS: admin@test.com
+[2025-05-26 20:43:26] [::1] [Gizem Merve Demir] LOGIN SUCCESS: gizemervedemir@gmail.com
+[2025-05-27 21:40:43] [::1] [Admin] LOGIN SUCCESS: admin@test.com
+[2025-05-28 05:45:46] [::1] [GUEST] NEW USER REGISTERED: shannen_anthony@test.com
+[2025-05-28 05:45:58] [::1] [GUEST] LOGIN FAILED: shannen_anthony@test.com
+[2025-05-28 05:46:07] [::1] [Shannen Anthony] LOGIN SUCCESS: shannen_anthony@test.com
+[2025-05-28 06:10:50] [::1] [Shannen Anthony] ITEM ADDED: User #14 added item #12
+[2025-05-28 06:14:14] [::1] [Shannen Anthony] ITEM ADDED: User #14 added item #13
+[2025-05-28 06:16:08] [::1] [Shannen Anthony] ITEM ADDED: User #14 added item #14
+[2025-05-28 06:26:30] [::1] [Shannen Anthony] ITEM ADDED: User #14 added item #15
+[2025-05-28 06:40:28] [::1] [Aysun Ay] LOGIN SUCCESS: aysun.ay@std.yeditepe.edu.tr
+[2025-05-28 06:40:30] [::1] [Aysun Ay] MATCH REQUEST: User #11 requested a match for item #15
+[2025-05-28 06:40:37] [::1] [Shannen Anthony] LOGIN SUCCESS: shannen_anthony@test.com
+[2025-05-28 06:44:18] [::1] [Eylül Akboğa] LOGIN SUCCESS: eylul.akboga@std.yeditepe.edu.tr
+[2025-05-28 06:44:27] [::1] [Shannen Anthony] LOGIN SUCCESS: shannen_anthony@test.com
+[2025-05-28 07:08:04] [::1] [Aysun Ay] LOGIN SUCCESS: aysun.ay@std.yeditepe.edu.tr
+[2025-05-28 07:08:13] [::1] [Shannen Anthony] LOGIN SUCCESS: shannen_anthony@test.com
+[2025-05-28 07:17:03] [::1] [Aysun Ay] LOGIN SUCCESS: aysun.ay@std.yeditepe.edu.tr
+[2025-05-28 07:19:36] [::1] [Shannen Anthony] LOGIN SUCCESS: shannen_anthony@test.com
+[2025-05-28 07:20:28] [::1] [Aysun Ay] LOGIN SUCCESS: aysun.ay@std.yeditepe.edu.tr
+[2025-05-28 08:07:41] [::1] [GUEST] NEW USER REGISTERED: gizemervedemir@gmail.com
+[2025-05-28 08:30:17] [::1] [Gizem Merve Demir] ITEM ADDED: User #1 added item #1
+[2025-05-28 08:30:47] [::1] [GUEST] NEW USER REGISTERED: aysun.ay@std.yeditepe.edu.tr
+[2025-05-28 08:45:52] [::1] [Aysun Ay] MATCH REQUEST: User #2 requested match for Item #1
+[2025-05-28 09:31:57] [::1] [Admin] ADMIN DELETE ITEM: Item #1 deleted
+[2025-05-28 09:32:00] [::1] [Admin] ADMIN DELETE ITEM: Item #1 deleted
+[2025-05-28 09:33:10] [::1] [Admin] ADMIN DELETE ITEM: Item #1 deleted
+[2025-05-28 09:37:10] [::1] [Admin] ADMIN DELETE ITEM: Item #1 deleted
+[2025-05-28 09:40:44] [::1] [Aysun Ay] ITEM ADDED: User #2 added item #2
+[2025-05-28 09:41:26] [::1] [Admin] ADMIN DELETE ITEM: Item #2 deleted
+[2025-05-28 09:44:44] [::1] [Aysun Ay] ITEM ADDED: User #2 added item #3
+[2025-05-28 09:47:38] [::1] [Gizem Merve Demir] ITEM ADDED: User #1 added item #4
+[2025-05-28 09:48:10] [::1] [GUEST] NEW USER REGISTERED: yunusemre.acikoglu@std.yeditepe.edu.tr
+[2025-05-28 09:49:52] [::1] [Yunus Emre Açıkoğlu] ITEM ADDED: User #4 added item #5
+[2025-05-28 09:50:19] [::1] [GUEST] NEW USER REGISTERED: eylul.akboga@std.yeditepe.edu.tr
+[2025-05-28 09:51:37] [::1] [Eylül Akboğa] ITEM ADDED: User #5 added item #6
+[2025-05-28 09:52:31] [::1] [GUEST] NEW USER REGISTERED: haticesena.ses@std.yeditepe.edu.tr
+[2025-05-28 09:54:05] [::1] [Hatice Sena Ses] ITEM ADDED: User #6 added item #7
+[2025-05-28 10:04:00] [::1] [Gizem Merve Demir] User #1 uploaded a new avatar
+[2025-05-28 10:04:04] [::1] [Gizem Merve Demir] User #1 uploaded a new avatar
+[2025-05-28 10:04:52] [::1] [Gizem Merve Demir] MATCH REQUEST: User #1 requested match for Item #5
+[2025-05-28 10:07:23] [::1] [Aysun Ay] MATCH REQUEST: User #2 requested match for Item #6
+[2025-05-28 10:09:43] [::1] [Admin] ADMIN DELETE ITEM: Item #7 deleted
+[2025-05-28 10:16:17] [::1] [Gizem Merve Demir] MATCH REQUEST: User #1 requested match for Item #3
+[2025-05-28 21:56:27] [::1] [Gizem Merve Demir] ADMIN ACCESS DENIED: Unauthorized access attempt
+[2025-05-29 06:23:48] [::1] [Admin] LOGOUT: User #3 (Admin) logged out
+[2025-05-29 06:28:12] [::1] [GUEST] NEW USER REGISTERED: aliyilmaz@test.com
+[2025-05-29 06:28:26] [::1] [GUEST] Failed login (wrong password) for aliyilmaz@test.com
+[2025-05-29 06:28:41] [::1] [Ali Yılmaz] Successful login for aliyilmaz@test.com
